@@ -37,12 +37,5 @@ I'm always excited about **learning new tech** and **optimizing workflows**, but
 
 ---
 
-### 🌟 Featured Repositories
-Here are some of the projects I'm proud of:
-1. **[Project 1](#)**: Description of what makes this project awesome.
-2. **[Project 2](#)**: Highlight key features or challenges solved.
-3. **[Project 3](#)**: Anything unique or exciting about this project.
-
----
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out. 🚀
