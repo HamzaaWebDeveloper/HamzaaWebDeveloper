@@ -20,10 +20,9 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ---
 
 ### 📫 Let's Connect
-- **Portfolio**: [My Portfolio](#) *(Link to your personal site, if any)*
-- **LinkedIn**: [Hamzaa WebDeveloper](#) *(Link to your LinkedIn)*
-- **Twitter**: [@HamzaaDev](#) *(Link to your Twitter, if applicable)*
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Portfolio**: [My Portfolio](hamazhayatportfolio.netlify.app) 
+- **LinkedIn**: [Hamzaa Hayat](https://www.linkedin.com/in/hamza-hayat-679a35269/) 
+- **Email**: [YourEmail@example.com](mailto:codehamzu0708@gmail.com)
 
 ---
 
