@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ### 📫 Let's Connect
 - **Portfolio**: [My Portfolio](https://hamzahayatportfolio.netlify.app/) 
 - **LinkedIn**: [Hamzaa Hayat](https://www.linkedin.com/in/hamza-hayat-679a35269/) 
-- **Email**: [YourEmail@example.com](mailto:codehamzu0708@gmail.com)
+- **Email**: [Email](mailto:codehamzu0708@gmail.com)
 
 ---
 
