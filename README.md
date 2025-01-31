@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ---
 
 ### 💻 Tech Stack & Skills
-- **Languages**: HTML, CSS, JavaScript, PHP
+- **Languages**: HTML, CSS, JavaScript, PHP , Python
 - **Frameworks**: Laravel, jQuery, Bootstrap
 - **Tools & Platforms**: Git, GitHub, Visual Studio Code, MySQL
 - **Specialties**: API integrations, Localization, Dynamic forms, and UI/UX development
